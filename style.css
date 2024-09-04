@@ -17,7 +17,7 @@ body {
   font-style: oblique;
 }
 
-.spinner { 
+.spinner {
   height: 200px;
   width: 200px;
   margin: 0px 5px 0px 60px;
@@ -30,9 +30,12 @@ body {
 }
 
 ul {
+  display: block;
+  background-color: indianred;
   list-style: none;
   text-align: center;
   font-size: large;
+  margin: 0 600px;
   padding: 10px;
 }
 
